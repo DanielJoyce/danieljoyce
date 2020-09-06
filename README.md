@@ -1,4 +1,4 @@
-### Hi I'm Daniel Joyce
+### Hi, I'm Daniel Joyce
 
 I've been in software development for two decades, and I'm always learning something new. 
 
